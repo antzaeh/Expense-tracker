@@ -1,1 +1,2 @@
 "#Expense-tracker" 
+The program allows you to record daily expenses. You input the date into the program and enter all the expenses paid throughout the day. Expenses are categorized into different categories. The program displays the total expenses for the day. You can also view the entered information by searching for data based on the date. The program can save the data to a file and read the data from the file.
